@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Originalzaki22
 - 👀 I’m interested in codes
 - 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on hacking, python, SQL, programming etc
+- 💞️ I’m looking to collaborate on web design, database management, front-end development etc
 - 📫 How to reach me +2349059371916 umarabdul172@gmail.com 
 
 <!---
